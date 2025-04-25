@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "cafeinc:block/coffee_machine" }
+  }
+}
