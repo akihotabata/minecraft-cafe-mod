@@ -1,0 +1,19 @@
+modLoader="javafml"
+loaderVersion="[40,)"
+license="MIT"
+
+[[mods]]
+modId="cafeinc"
+version="1.0.0"
+displayName="CafeCraft"
+description='''
+A realistic café management mod for Minecraft, inspired by Coffee Inc 2.
+Includes coffee bean simulation, brewing, and shop upgrades.
+''
+
+[[dependencies.cafeinc]]
+    modId="forge"
+    mandatory=true
+    versionRange="[40,)"
+    ordering="NONE"
+    side="BOTH"
